@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(209, 121, 115) 
+    display: block;
+    
+}
+h1{
+    color: deeppink;
+     font-size: 50px; 
+     text-align: center;
+}
+p{
+    text-align: center;
+    color: black;
+}
+h3{
+    color: black;
+    text-align: left;
+}
